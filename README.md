@@ -16,6 +16,29 @@
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/3ffe495d707f6ea83b3b43e7f273e1b7)
 
+<h2>📊 Cybersecurity Skills:</h2>
+
+  - Threats, risks, and vulnerabilities
+  - Incident response 
+  - Security framework and controls
+  - Security hardening
+  - Linux command line
+  - SQL
+  - SIEM tools
+  - Python
+  <h2>📊 Transferable Skills:</h2>
+  
+  - Written and verbal communication 
+  - Multitasking 
+  - Time management
+  - Excellent under pressure 
+  - Attention to detail
+  - Problem solving 
+  - Exceptional mathematical skill
+  
+  
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
