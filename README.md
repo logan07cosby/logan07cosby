@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Drafting a professional statement](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Drafting a professional statement](https://github.com/logan07cosby/DraftingProfessionalStatement)
   - [Conducting a security audit](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Analyzing network structure and security](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Using Linux commands to manage file permissions](https://github.com/joshmadakor1/Algorithms-Practice)
