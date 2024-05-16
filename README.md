@@ -5,7 +5,7 @@
 
   - [Drafting a professional statement](https://github.com/logan07cosby/DraftingProfessionalStatement)
   - [Conducting a security audit](https://github.com/logan07cosby/ConductingSecurityAudit)
-  - [Analyzing network structure and security](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing network structure and security](https://github.com/logan07cosby/Analyzingnetworkstructureandsecurity)
   - [Using Linux commands to manage file permissions](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Applying filters to SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Identifying vulnerabilities for a small business](https://github.com/joshmadakor1/Algorithms-Practice)
