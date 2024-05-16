@@ -8,7 +8,7 @@
   - [Analyzing network structure and security](https://github.com/logan07cosby/Analyzingnetworkstructureandsecurity)
   - [Using Linux commands to manage file permissions](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Applying filters to SQL queries](https://github.com/logan07cosby/ApplyingfilterstoSQLqueries)
-  - [Identifying vulnerabilities for a small business](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Identifying vulnerabilities for a small business](https://github.com/logan07cosby/Identifyingvulnerabilitiesforasmallbusiness)
   - [Documenting incidents with an incident handler’s journal](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Importing and parsing a text file in a security-related scenario](https://github.com/joshmadakor1/Algorithms-Practice)
 
